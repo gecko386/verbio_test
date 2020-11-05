@@ -1,0 +1,3 @@
+[submodule "tests/cmake"]
+	path = tests/cmake
+	url = https://github.com/CLIUtils/cmake.git
